@@ -35,6 +35,9 @@ td.cell{
     background: #00d021;
     
 }
+.block{
+    background: black;
+}
 .snakeBody{
     background: #e5e5e5;
 }
@@ -48,7 +51,7 @@ td.cell{
 .disabled:hover{
     background: #7c7c7c;
 }
-#game-score {
+.score {
     margin-top: 1%;
     text-align: center;
     font-family: "Lobster", serif;
